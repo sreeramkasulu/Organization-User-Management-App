@@ -1,12 +1,10 @@
-# interviewBuddy-FS-task
+# Organization-User-Management-App
+**A simple full-stack task to manage teams and members as part of a recruitment assessment.  
+Built to demonstrate CRUD operations, image uploads, and responsive UI.**
 
-### This is not a project its just a full stack task, done as a part of recruiting process
+---
 
-<br>
-<br>
-<br>
-
-# Organization API Documentation
+# API Documentation
 
 This document provides documentation for a simple REST API used to manage organizations and their associated users.
 
@@ -43,8 +41,8 @@ You must have [Node.js](https://nodejs.org/) (which includes npm) installed on y
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/roopesh-jsp/interviewBuddy-FS-task-.git
-    cd interviewBuddy-FS-task-
+    git clone https://github.com/sreeramkasulu/Organization-User-Management-App.git
+    cd Organization-User-Management-App
     ```
 
 2.  **Set up the Backend:**
@@ -561,3 +559,7 @@ All endpoints are relative to the base URL (e.g., `http://localhost:3000`). The 
     "message": "User not found"
   }
   ```
+
+## 👨‍💻 Author
+
+**Made by:** Penke Sreeram Kasulu 
