@@ -1,6 +1,7 @@
 # Organization-User-Management-App
 **A simple full-stack task to manage teams and members as part of a recruitment assessment.  
-Built to demonstrate CRUD operations, image uploads, and responsive UI.
+Built to demonstrate CRUD operations, image uploads, and responsive UI.**
+---
 **Live Demo:** [https://organization-user-management-app-jr.vercel.app/](https://organization-user-management-app-jr.vercel.app/)
 
 ---
